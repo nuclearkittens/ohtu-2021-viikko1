@@ -1,0 +1,3 @@
+*.tmp
+**/__pycahe__
+**/.pytest_cache
