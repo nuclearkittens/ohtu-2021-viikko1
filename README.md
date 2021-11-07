@@ -1,5 +1,7 @@
-# ohtu s2021 viikko 1 
+# HY Ohjelmistotuotanto-kurssin tehtävät (s2021) // viikko 1
 ![GitHub Actions](https://github.com/nuclearkittens/ohtu-2021-viikko1/workflows/CI/badge.svg)
 [![codecov](https://codecov.io/gh/nuclearkittens/ohtu-2021-viikko1/branch/main/graph/badge.svg?token=14N9B4NAF6)](https://codecov.io/gh/nuclearkittens/ohtu-2021-viikko1)
 
-HY Ohjelmistotuotanto-kurssin tehtävät (s2021) // viikko 1
+### viikko 1
++ tässä repossa viikon 1 tehtävät 2-13
++ tehtävät 14-16 (sekä myöhempien viikkojen laskarit) löytyvät [täältä](https://github.com/nuclearkittens/ohtu-s2021).
